@@ -2,6 +2,7 @@ This is a [Tech Test Uni Eco ](https://nextjs.org/) project bootstrapped with [`
 
 ## Getting Started
 
+Before start, clone this repo, go to the directory, then npm install
 First, run the development server:
 
 ```bash
