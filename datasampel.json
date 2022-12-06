@@ -1,0 +1,42 @@
+[
+    {
+        "firstName": "Antonio",
+        "lastName": "Banderas",
+        "email": "antonio.banderas@gmail.com",
+        "gender": "male",
+        "addr": [
+            {
+                "street": "Upper Street",
+                "house": "No 1",
+                "city": "New York",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "firstName": "Celine",
+        "lastName": "Dion",
+        "email": "celine.dion@gmail.com",
+        "gender": "female",
+        "addr": [
+            {
+                "street": "Upper Street",
+                "house": "No 3",
+                "city": "New York",
+                "country": "USA"
+            },
+            {
+                "street": "Upper Street",
+                "house": "No 1",
+                "city": "London",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "firstName": "Enrique",
+        "lastName": "Felipe",
+        "email": "Enrique.Felipe@gmail.com",
+        "gender": "male"
+    }
+]
